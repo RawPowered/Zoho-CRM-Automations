@@ -1,0 +1,1 @@
+Do not publish customer records, credentials, account exports or vulnerability details in public issues. Use GitHub private vulnerability reporting for confidential security reports. This repository contains showcase documentation/media only; production software is delivered privately.

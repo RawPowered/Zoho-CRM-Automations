@@ -1,0 +1,13 @@
+name: Commercial implementation inquiry
+description: Discuss licensing, installation or support
+title: "Commercial inquiry"
+body:
+  - type: markdown
+    attributes:
+      value: "Public showcase: no free beta packages or software downloads. Do not post customer records, credentials, account IDs or confidential terms."
+  - type: textarea
+    id: scope
+    attributes:
+      label: General use case and desired commercial scope
+    validations:
+      required: true

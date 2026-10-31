@@ -1,8 +1,10 @@
 # Zoho CRM Automations
 
-Commercial automation components for BOM, scope, commissions, onboarding, agreement delivery, signed role events and project execution.
+> **Tested & In Development / Pre-Release.** Testing covers documented development checks only. Production readiness and customer-specific acceptance remain pending.
 
-**Commercial product showcase.** This repository supplies product information and fictional demonstration media only. No Deluge source, widget installers, free beta packages or software license are publicly distributed.
+Pre-release automation components for BOM, scope, commissions, onboarding, agreement delivery, signed role events and project execution.
+
+**Tested & In Development / Pre-Release.** This repository supplies product information and fictional demonstration media only. No Deluge source, widget installers, free beta packages or software license are publicly distributed.
 
 ## Schema setup tour
 
